@@ -1,4 +1,5 @@
 ## Geolog Import
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/OSMBrasil/Geolog-PMSP?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 This repository holds files for the import of road infrastructure of the City of São Paulo to OpenStreetMap.
 
